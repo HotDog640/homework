@@ -1,0 +1,10 @@
+1. A while loop repeats until a condition is met, whereas a for loop iterates through data, such as a string or a range. 
+2. range() 
+3. 1, 2, 3, 4, 5 
+4. The first argument indicates the start point: 1. The second argument indicates the end point; 6. 
+5. The argument indicates the end point. It will start from 0. 
+6. The third argument is the step value. It indicates how much to increment/decrement the numbers. 
+7. range(10, 0, -1) 
+8. The word for, the word in, a colon 
+9. A variable that contains more than one item. E.g., a string 
+10. A for loop can iterate through an enumerate variable, such as a string, without having to use a loop control variable. 

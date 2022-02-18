@@ -1,0 +1,11 @@
+1.	Analytics is the processing and transforming of data, presenting it in a meaningful way, and determining what the data means.
+2.	The goal of analytics is to find insights from data. An insight is a useful fact or trend that can be used to inform decision making.
+3.	Three of the stages of analytics are:
+    a.	Accessing data,
+    b.	Pre-processing data,
+    c.	Sorting data.
+4.	Checking for outliers, missing data.
+5.	An outlier is a piece of data that does not look like the rest of the data in the dataset.
+6.	Discarding outliers, Removing missing data points.
+7.	The minimum and maximum values in a data set and the most frequently occurring item.
+8.	Algorithms can calculate the frequency, mean, median, minimum, maximum, and mode of a data set; offering greater precision to those who are interpreting the data.

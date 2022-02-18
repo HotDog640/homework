@@ -1,0 +1,20 @@
+1.	A list in python is a collection of values that can be of any data type. It is used to store many values in the same variable.
+2.	It avoids having to code the same instructions over and over again.
+3.	newList = []
+4.	Items
+5.	emptyList = []
+6.	list(string)
+7.	myList.index(“p”)
+8.	“in” and “not in”
+9.	Declaring a variable to be used as a list.
+10.	The list can be modified. You can change the value of an item of a list using its index, instead of having to declare a new list.
+11.	myList.append(99)
+12.	The first argument is the index of where the item will be inserted to, and the second argument is the value of the item to be inserted.
+13.	
+    list1 = [“this”, “is”, “a”, “list”]
+    list2 = [“this”, “is”, “another”, “list”]
+    newlist = list1 + list2
+14.	
+    list1 = [“test”, “list”]
+    newList = list1 * 4
+

@@ -1,0 +1,29 @@
+1. A text file is a file that only contains plain text – no formatting or images.
+2. .txt
+3. They store data after the program finishes.
+4. It creates the file.
+5. It errors.
+6. Two arguments.
+7. The file to open.
+8. What to do with the file.
+    a. w – write. Overwrites the content of the file with new content.
+    b. a – append. Appends new content to the end of the file.
+    c. r – read. Reads the content of the file.
+9. It errors.
+10. file.close()
+11. There is no standard way to separate each value in a text file.
+12. Comma separated values.
+13. .csv
+14. They have a specific structure to separate values.
+15.
+    a. They can be read from and written to easily since they use the same encoding as text files.
+    b. A CSV file could theoretically be as large as you wanted.
+16. It is a series of values, separated by commas.
+    3527,12,73,178,1
+17. A delimiter is a character or substring that separates values in a file. Tabspaces are often used instead to delimit values.
+18. Commas.
+19. A string
+20. It splits the string into a list at every point the provided substring occurs.
+21. A list of strings.
+22. List comprehensions allows you to convert the data to a list and apply operators or functions to each item.
+23. Using fileinput.split(“,”) only produces a list of strings, list comprehension may be used to convert these values into integers or floats first.

@@ -1,0 +1,10 @@
+1.	An airport self-check-in system may collect the:
+    a.	Flight number,
+    b.	Luggage weight,
+    c.	Destination.
+2.	The types of graphs that could offer a visual representation are:
+    a.	Trend graph,
+    b.	Bar chart,
+    c.	Pie chart.
+3.	The values produced when the ECG is first applied to the person, as there may be interference.
+4.	An outlier. Get the difference between each node and its two neighboring nodes and see if it’s above a certain threshold.

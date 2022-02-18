@@ -1,0 +1,13 @@
+1.	Iteration is when a block of code is executed several times
+2.	A loop is code that iterates
+3.	It loops and keeps looping until a condition is false
+4.	A Boolean
+5.	True
+6.	A colon
+7.	The code that gets executed while the condition is true
+8.	A counter, while, Boolean expression, a colon, and a while clause
+9.	Setting the condition to True
+10.	Validating data, running code forever
+11.	Off by one error, when code is executed one too many or one too few times.
+12.	Using a counter, incrementing the counter in the loop, and have the counter in the loop condition.
+13.	It doesn’t have a fixed number of iterations, it can run zero or many times.

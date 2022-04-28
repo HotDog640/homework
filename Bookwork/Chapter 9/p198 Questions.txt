@@ -1,0 +1,18 @@
+1. i) It makes the code harder to read
+  ii) If the code needs to be changed, you need to change it everywhere
+2. A function is a block of code that can be called later.
+3. If you need to change code, you only need to change it in one spot.
+4. def functionName(arguments):
+5. i) Defining a function the decleration of what code is to run when the function is called.
+  ii) Calling a function runs the code that was defined earlier.
+6. The function must be defined before it is called.
+7. The main program body is the code that isn't indented.
+8. An argument is a variable or constant in a function.
+9. To change the output of a function.
+10. What it's called, its arguments, and its body.
+11. camelCase: each word is capitalised except for the first word
+12. A formula that uses more than one variable.
+13. The volume of a cylender.
+14. Because the function block expects the arguments to be in a certain order, and bugs could occur if this is not the case.
+15. Yes. For example, refactoring every line of code to a function in the outer scope.
+16. If, for whatever reason, the arguments can't be entered in the same order as expected by the function.

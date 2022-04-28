@@ -1,0 +1,4 @@
+1. To use the value for a purpose in the main program.
+2. return
+3. Functions that return a bool can be used for a data validation function.
+4. What to call it, what its arguments are, what it does, what it returns.

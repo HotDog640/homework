@@ -1,0 +1,24 @@
+1. To make sure that programs meet their design requirements.
+2. The smallest component of a program that can be tested.
+3. automoated tests that test a unit.
+4. software developers make unit tests for the computer to requirements
+5. it's faster, and allows other devleopers to check your code.
+6. An expected output for a given input.
+7. 
+--->unitTest()
+    - Code Body
+        |
+        ---------> functionToTest()
+                   - Code body
+                   - Returns value
+        <-------------|
+    - Returns test Results
+        |
+<--------
+
+8. No, otherwise if there was a mistake, the same mistake would be present in the test.
+9. Using a list of inputs and expected outputs, and running the function several times using a loop.
+10. By importing the main program in the unit test script, and calling the function.
+11. - It's fast
+    - It allows for bugs to be identified easily
+    - It provide sdocumentation

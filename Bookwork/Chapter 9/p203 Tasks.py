@@ -42,16 +42,15 @@ print(occurs([1, 2, 4, 2, 2, 2], 2))
 
 # Q6
 """
-def getSalesPrice(RPR, discount):
-    return RPR - ((discount / 100) * RPR)
+def getSalesPrice(RRP, discount):
+    return RRP - ((discount / 100) * RRP)
 
-RPRs = [23, 41, 3, 76, 235, 3]
-discounts = [64, 21, 5, 32, 64, 50]
-
-print("Retail\t% Off\tSales Price")
-for RPR, discount in zip(RPRs, discounts):
-    salesPrice = getSalesPrice(RPR, discount)
-    print(f"{RPR}\t{discount}\t{salesPrice}")
+for i in range(6):
+    RRP = int(input("Enter the reccomended retail price: "))
+    discount = int(input("Enter the percentage discount as a whole number: "))
+    salesPrice = getSalesPrice(RRP, discount)
+    print("Retail\t% Off\tSales Price")
+    print(f"{RRP}\t{discount}\t{salesPrice}")
 """
 
 # Q7
@@ -71,7 +70,7 @@ for temp, scale in zip(temps, scales):
 """
 
 # Q8
-
+"""
 # returns float of the price in euro
 def getTheCostOfPetFoodForThreeWeeks(petType, gramsPerDay):
     foodPrice = None
@@ -90,4 +89,4 @@ gramsPerDay = int(input("How much grams of food do they eat a day? "))
 costOfPetFoodForThreeWeeks = getTheCostOfPetFoodForThreeWeeks(petType, gramsPerDay)
 
 print(f"The cost of pet food for the next three weeks is: €{costOfPetFoodForThreeWeeks:.2f}")
-
+"""
